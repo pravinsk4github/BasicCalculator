@@ -2,8 +2,8 @@ Product: Basic Calculator
 -------------------------
 
 Technology used - .Net 5 <br/>
-Client Type - Console App
-Input file - Part of Client project
+Client Type - Console App <br/>
+Input file - Part of Client project <br/>
 File path - Configured in appsettings.json (located in the bin folder after compilation)
 --------------------------------------------------------------------------------------------------
 
